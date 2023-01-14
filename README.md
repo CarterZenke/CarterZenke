@@ -1,7 +1,7 @@
 # Hi, I'm Carter Zenke ✨
 
-- 🔭 I teach as a Preceptor in Computer Science at [Harvard University](https://www.harvard.edu).
-- 📫 How to reach me: <carter@cs50.harvard.edu>
+- 🏫 I teach as a Preceptor in Computer Science at [Harvard University](https://www.harvard.edu).
+- 📫 You can reach me at <carter@cs50.harvard.edu>
 
 <!--
 **CarterZenke/CarterZenke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
