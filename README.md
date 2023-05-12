@@ -1,6 +1,6 @@
-### Hello, I'm Carter Zenke
+### Hello!
 
-I teach as a Preceptor in Computer Science at [Harvard University](https://www.harvard.edu).
+I'm Carter Zenke. I teach as a Preceptor in Computer Science at [Harvard University](https://www.harvard.edu).
 
 #### Get in Touch
 
