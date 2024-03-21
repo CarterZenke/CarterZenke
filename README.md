@@ -5,3 +5,4 @@ I teach as a Senior Instructor in Computer Science at [Harvard University](https
 I have also recently made technical and pedagogical contributions to [https://cs50.ai/](https://cs50.ai/), the learnings from which we will [present at SIGCSE 2024](https://cs.harvard.edu/malan/publications/V1fp0567-liu.pdf).
 
 👋 Contact me at <carter@cs50.harvard.edu>.
+📸 Photography by Andrew Markham.
