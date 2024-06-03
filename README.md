@@ -4,5 +4,5 @@ I work at [Hello World CS](https://helloworldcs.org/), creating engaging compute
 
 I previously taught at [Harvard](https://www.harvard.edu/), where I oversaw educational productions and teaching operations for CS50's 5M+ students, online and on-campus.
 
-👋 Contact me at <carter@cs50.harvard.edu>.\
+👋 Contact me at <carter@helloworldcs.org>.\
 📸 Photography by Andrew Markham.
